@@ -1,0 +1,15 @@
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\bin\Debug\net6.0\recurciveAndExtension.exe
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\bin\Debug\net6.0\recurciveAndExtension.deps.json
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\bin\Debug\net6.0\recurciveAndExtension.runtimeconfig.json
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\bin\Debug\net6.0\recurciveAndExtension.dll
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\bin\Debug\net6.0\ref\recurciveAndExtension.dll
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\bin\Debug\net6.0\recurciveAndExtension.pdb
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.csproj.AssemblyReference.cache
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.AssemblyInfoInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.AssemblyInfo.cs
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.csproj.CoreCompileInputs.cache
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.dll
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\ref\recurciveAndExtension.dll
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.pdb
+C:\Users\90542\Desktop\Pratikler Devam\recurciveAndExtension\obj\Debug\net6.0\recurciveAndExtension.genruntimeconfig.cache
